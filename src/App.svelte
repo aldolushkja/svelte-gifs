@@ -27,7 +27,7 @@
 
 <div class="box container is-fluid">
 	<form on:submit={formSubmitted}>
-		<label class="is-size-2" for="search">Search GIFS</label>
+		<label class="is-size-2" for="search">Search GIFS 🍔🍩☕</label>
 		<div class="level is-mobile">
 			<input
 				class="input is-normal"
